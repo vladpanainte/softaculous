@@ -1,0 +1,2 @@
+# softaculous
+Script for softaculous
